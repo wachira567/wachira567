@@ -40,7 +40,7 @@ Community platform for anonymous reporting and campus communication with role-ba
 
 - **Portfolio:** [my-portfolio-url.com](https://) 
 - **LinkedIn:** [linkedin.com/in/wachira567](https://www.linkedin.com/in/wachira567/)
-- **Email:** [wachiramboche@gmail.com](mailto:wachiramboche@gmail.com)
+- **Email:** [wachiramboche2@gmail.com](mailto:wachiramboche@gmail.com)
 
 ---
 
