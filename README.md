@@ -1,6 +1,6 @@
 # Hi, I'm Victor Wachira
 
-**Junior Software Engineer building full-stack applications that solve real-world problems.**
+**Software Engineer building full-stack applications that solve real-world problems.**
 
 I craft secure, scalable web apps with clean architecture and practical user-focused solutions. Based in Nairobi, Kenya.
 
