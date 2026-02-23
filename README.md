@@ -40,19 +40,9 @@ Community platform for anonymous reporting and campus communication with role-ba
 
 - **Portfolio:** [portfoliovictor-swart.vercel.app](https://portfoliovictor-swart.vercel.app/) 
 - **LinkedIn:** [linkedin.com/in/wachira567](https://www.linkedin.com/in/wachira567/)
-- **Email:** [wachiramboche2@gmail.com](mailto:wachiramboche@gmail.com)
+- **Email:** [wachiramboche2@gmail.com](mailto:wachiramboche2@gmail.com)
 
 ---
 
-## Top Repositories
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| [EventHub Backend](https://github.com/wachira567/Eventhub_Group_Backend) | Python, Flask, PostgreSQL | Event ticketing API with M-Pesa integration |
-| [EventHub Frontend](https://github.com/wachira567/Group6_Eventhub_Frontend) | React, Tailwind, Redux | Modern React frontend for EventHub |
-| [Deliveroo Backend](https://github.com/wachira567/deliveroo.backend) | Python, Flask | Parcel delivery API with Mapbox |
-| [Deliveroo Frontend](https://github.com/wachira567/deliveroo.frontend) | React, JavaScript | Delivery platform UI |
-
----
 
 *Open to backend and full-stack engineering opportunities where reliability and performance matter.*
