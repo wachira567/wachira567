@@ -38,7 +38,7 @@ Community platform for anonymous reporting and campus communication with role-ba
 
 ## Connect With Me
 
-- **Portfolio:** [my-portfolio-url.com](https://portfoliovictor-swart.vercel.app/) 
+- **Portfolio:** [portfoliovictor-swart.vercel.app](https://portfoliovictor-swart.vercel.app/) 
 - **LinkedIn:** [linkedin.com/in/wachira567](https://www.linkedin.com/in/wachira567/)
 - **Email:** [wachiramboche2@gmail.com](mailto:wachiramboche@gmail.com)
 
