@@ -1,38 +1,58 @@
-# Hi, I'm Victor Wachira
+# Victor Wachira
+**Software Engineer | Full-Stack Developer**
 
-**Software Engineer building full-stack applications that solve real-world problems.**
+I am a Software Engineer based in Nairobi, Kenya, specializing in building secure, scalable, and high-performance web applications. I focus on clean architecture, practical problem-solving, and delivering user-centric solutions. 
 
-I craft secure, scalable web apps with clean architecture and practical user-focused solutions. Based in Nairobi, Kenya.
+I excel in building robust backend systems and integrating them with dynamic, responsive frontends.
 
 ---
 
-## Tech Stack
+## Technical Expertise
 
 **Languages:** Python · JavaScript · SQL  
 **Frontend:** React · Vite · Tailwind CSS · Redux Toolkit  
 **Backend:** Flask · FastAPI · SQLAlchemy · REST APIs · JWT Auth  
-**Databases:** PostgreSQL · SQLite · Firebase  
-**Cloud & Tools:** Git · GitHub · AWS · Azure · Render · Vercel · Cloudinary
+**Databases:** PostgreSQL · SQLite · MongoDB · Firebase  
+**DevOps & Tools:** Git · Docker Compose · AWS · Azure · Render · Vercel · Cloudinary
 
 ---
 
 ## Featured Projects
 
-### [EventHub](https://github.com/wachira567/Eventhub_Group_Backend) — Event Ticketing Platform
-Full-stack event management system with M-Pesa payments, QR-code ticket validation, automated emails, and admin analytics dashboards.  
-`Flask` `React` `PostgreSQL` `JWT` `Redux Toolkit` `Tailwind CSS`
+### [LearnFlow LMS Prototype](https://github.com/wachira567/learnflow_lms_prototype.git) — Learning Management System
+A modern, full-stack Learning Management System demonstrating a dual-database architecture. 
+- Designed a comprehensive analytics dashboard for administrators to monitor engagement and manage content.
+- Implemented JWT-based authentication with robust role-based access control (RBAC).
+- Containerized the application using Docker Compose for seamless deployment and environment consistency.
+- **Tech Stack:** `FastAPI` `React` `PostgreSQL` `MongoDB` `Docker Compose`
 
-### [Deliveroo](https://github.com/wachira567/deliveroo.backend) — Parcel Delivery Platform
-Real-time parcel delivery system with Mapbox tracking, role-based dashboards for users and couriers, and dynamic status updates.  
-`Flask` `React` `PostgreSQL` `Mapbox` `Tailwind CSS`
+### [EventHub](https://github.com/wachira567/Eventhub_Group_Backend) — Event Ticketing & Management Platform
+A comprehensive full-stack event management system.
+- Engineered secure M-Pesa payment integrations for localized transactions.
+- Developed QR-code ticket validation and automated email notification workflows.
+- Built administrative analytics dashboards for tracking attendance and financial metrics.
+- **Tech Stack:** `Flask` `React` `PostgreSQL` `JWT` `Redux Toolkit` `Tailwind CSS`
+
+### [Deliveroo](https://github.com/wachira567/deliveroo.backend) — Real-Time Parcel Delivery Platform
+A logistics platform featuring separate workflows for users and couriers.
+- Integrated Mapbox location services for real-time parcel tracking.
+- Developed role-based dashboards to manage deliveries, assignments, and order history efficiently.
+- Engineered dynamic status updates to ensure transparent communication across the delivery lifecycle.
+- **Tech Stack:** `Flask` `React` `PostgreSQL` `Mapbox` `Tailwind CSS`
 
 ### [VenueVibe](https://github.com/wachira567) — Venue Booking Platform
-Scalable booking platform with FastAPI backend, Google OAuth, real-time availability checks, multi-day booking logic, and Cloudinary image management.  
-`FastAPI` `PostgreSQL` `React` `Tailwind CSS` `Cloudinary`
+A sophisticated booking system designed for high concurrency and ease of use.
+- Architected a scalable FastAPI backend with secure Google OAuth integration.
+- Implemented complex scheduling logic for real-time availability checks and multi-day bookings.
+- Integrated Cloudinary for optimized image management and automated invoice generation.
+- **Tech Stack:** `FastAPI` `PostgreSQL` `React` `Tailwind CSS` `Cloudinary`
 
 ### [Campus Pulse Plus](https://github.com/wachira567) — Student Engagement Platform
-Community platform for anonymous reporting and campus communication with role-based access, moderation tools, and engagement analytics.  
-`Flask` `React` `SQLAlchemy` `Recharts`
+A community-driven platform facilitating structured campus communication.
+- Built a system for anonymous reporting and moderated discussions.
+- Implemented granular role-based access control for students and administrators.
+- Developed administrative dashboards utilizing Recharts to visualize engagement data.
+- **Tech Stack:** `Flask` `React` `SQLAlchemy` `Recharts`
 
 ---
 
@@ -44,5 +64,4 @@ Community platform for anonymous reporting and campus communication with role-ba
 
 ---
 
-
-*Open to backend and full-stack engineering opportunities where reliability and performance matter.*
+*Open to software engineering opportunities where code quality, system reliability, and performance are prioritized.*
